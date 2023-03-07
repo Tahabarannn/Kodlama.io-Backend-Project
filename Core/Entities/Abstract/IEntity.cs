@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Core.Entities
+namespace Core.Entities.Abstract
 {
     //The class that implements IEntity is a database table
     public interface IEntity
